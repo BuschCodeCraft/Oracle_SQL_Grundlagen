@@ -35,4 +35,4 @@ Dieser Ordner enthält die Skripte zur Einrichtung der erforderlichen Datenbankt
 
 ---
 
-Nach Abschluss dieses Setups können Sie mit den weiteren Übungen fortfahren.
+Nach Abschluss dieses Setups können Sie mit den weiteren Übungen fortfahren. Viel Spaß!
